@@ -33,7 +33,7 @@ a P2P-based grid system**.
 
 ## How to install ##
 
-### VMDK image virtual machine ###
+### VMDK image virtual machines ###
 
 You can download a [VMDK image the Clondike](http://clondike.fit.cvut.cz/production-version/) and run a virtual machine.
 
